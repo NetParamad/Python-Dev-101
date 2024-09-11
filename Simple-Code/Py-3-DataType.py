@@ -9,7 +9,7 @@ c = float(20.5)
 # Complex
 d = complex(1j)
 # List
-e = list(("apple", "banana", "cherry"))
+e = list(["apple", "banana", "cherry"])
 # Tuple
 f = tuple(("apple", "banana", "cherry"))
 # Range

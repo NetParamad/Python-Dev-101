@@ -12,7 +12,6 @@ average = sum(score)/n
 print("Average score = ", average)
 print("Max score = ", max(score))
 print("Min score = ", min(score))
-
 for i in range(n):
     if score[i] >= average:
         print(f"student : name =  {name[i]} , score = {score[i]}")

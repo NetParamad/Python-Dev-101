@@ -3,7 +3,7 @@ def calculateGrade(grade):
     if grade >= 80:
         return "A"
     elif grade >= 70:
-        return "B"
+         return "B"
     elif grade >= 60:
         return "C"
     elif grade >= 50:
