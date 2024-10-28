@@ -9,10 +9,9 @@ def mutilple(x):
 # mutilple(10)
 
 def ex(x,y):
-    i = x
-    while (i <= y):
-        mutilple(i)
-        i += 1
+    while (x <= y):
+        mutilple(x)
+        x += 1
 
 x = int(input("Enter x number: "))
 y = int(input("Enter y number: "))
